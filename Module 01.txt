@@ -1,0 +1,6 @@
+AZ 104: Azure Administrator associate 
+
+Module -1 Identity 
+
+A. Azure Active Directory (Azure AD):-
+Azure Active Directory (Azure AD) is a cloud-based identity and access management service.
